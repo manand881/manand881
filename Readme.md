@@ -11,4 +11,4 @@ Here are a list of my personal projects which i would like to showcase. (Coming 
 
 * Add me on [Linkedin](https://www.linkedin.com/in/anand-mahesh/).
 * Mail me on [Gmail](manand881@gmail.com) for any queries, assistance or collaboration.
-* here is a link to my personal [Website](https://anand.technology) where I aim to showcase my freelance webdesign work in the future.
+* here is a link to my personal [Website](https://anand.technology) which I mostly use to show previous webdev projects to potential clients.
