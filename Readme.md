@@ -12,4 +12,5 @@ I'm an explorer who loves to build new things.
 
 ## Stats
 
-![Anands's GitHub stats](https://github-readme-stats.vercel.app/api?username=manand881&hide=contribs,prs)
+![Anands's GitHub stats](https://github-readme-stats.vercel.app/api?username=manand881&hide=contribs,prs)<br>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manand881&theme=blue-green)
