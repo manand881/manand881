@@ -9,3 +9,7 @@ I'm an explorer who loves to build new things.
 * Add me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anand-mahesh/).
 * Mail me on [Gmail](manand881@gmail.com) for any queries, assistance or collaboration.
 * here is a link to my personal [Website](https://anand.technology) which I mostly use to show previous webdev projects to potential clients.
+
+## Stats
+
+![Anands's GitHub stats](https://github-readme-stats.vercel.app/api?username=manand881&hide=contribs,prs)
